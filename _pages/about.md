@@ -8,22 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Postdoctoral Research Fellow in the
-[Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/) 
-and [Department of Political Science](https://polisci.wustl.edu/) at
-[Washington University in St. Louis](https://wustl.edu/). I am also an
-affiliated researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-lab. I specialize in International Relations and Political Methodology. I earned
-my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu/) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu/).
-
-My work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Political Science Research and Methods*,
-and *The Journal of Open Source Software*. My [research](research) explores the
-causes and consequences of political violence using a broad variety of methods
-such as latent variable models, geospatial analysis, and big data. While I
-primarily focus on civil conflict, I also examine contentious political
-phenomena including terrorism and economic statecraft. I have
-[teaching](teaching) experience in both international relations and quantitative
-methodology.
+Welcome! I am an incoming Statistics PhD student at [University of California Irvine](https://www.stat.uci.edu). Previously, I studied Biostatistics as a master student at the [University of Washington](https://www.biostat.washington.edu). Prior to UW, I received my BSc in Applied Mathematics from [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en/). My current [research](research) focus on deep generative models, statistical learning and their application to biomedical data, especially neuroimaging.  
