@@ -1,5 +1,5 @@
 ---
-title: "On Causal Rationalization"
+title: "Towards Trustworthy Explanation: On Causal Rationalization"
 collection: publications
 permalink: /publication/2021-Interpretable-LDA
 date: 2023-5-01
