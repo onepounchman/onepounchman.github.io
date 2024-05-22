@@ -2,96 +2,55 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Zhendong Wang
     - name: Languages
-      value: English, German
+      value: English, Chinese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    - title: PhD in Statistics & Data Science
+      institution: University of Texas at Austin
+      year: 2020-now
+      description: 
+        - GPAs 4.0/4.0
+    - title: Master in Data Science
+      institution: Columbia University
+      year: 2018-2020
+      description: 
+        - GPA 4.0/4.0
+    - title: Bachelor in Civil Engineering
+      institution: Tongji University (Shanghai, China)
+      year: 2014-2018
+      description: 
+        - GPA 90.45/100.00
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: ML Research Engineer
+      institution: Twitter, Inc.
+      year: summer 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed Offline Reinforcement learning algorithms for long-term valued recommender system. 
+    - title: ML Research Engineer
+      institution: Twitter, Inc.
+      year: summer 2021
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Developed Multi-Task learning models for Twitter recommender system.
+        - The model clearly outperforms the current serving model and the code was ready to ship before my leave.
+    - title: Teaching Asistant
+      institution: University of Texas at Austin
+      year: 2022-now
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Deep generative models, such as GANs, VAE, and diffusion models.
+    - title: Reinforcement Learning (Online/Offline).
+    - title: Distribution-Free Uncertainty Quantification methods. 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> tennis, hiking, etc.

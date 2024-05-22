@@ -12,7 +12,6 @@ module ExternalPosts
         site.config['external_sources'].each do |src|
           p "Fetching external posts from #{src['name']}:"
           xml = HTTParty.get(src['rss_url']).body
-          return if xml.nil?
           feed = Feedjira.parse(xml)
           feed.entries.each do |e|
             p "...fetching #{e.url}"
@@ -33,4 +32,5 @@ module ExternalPosts
       end
     end
   end
+
 end
