@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-For a more up-to-date list, please also see my [google scholar](https://scholar.google.com/citations?user=2d-0ybAAAAAJ&hl=en) page.
+For a more up-to-date list, please also see my [google scholar](https://scholar.google.com/citations?user=7IV2H5IAAAAJ&hl=en) page.
 
 (\*=equal contribution)
 
