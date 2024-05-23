@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://yuhaozhang.github.io/sitemap.xml
+Sitemap: https://onepounchman.github.io/sitemap.xml
