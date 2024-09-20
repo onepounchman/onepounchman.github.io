@@ -22,4 +22,4 @@ Welcome! I am a third-year Statistics PhD candidate at [University of California
 **Research Interests:** I have broad research interests in general machine learning. Specifically, my research interests lie in:
 
 - **Large Language Models**, e.g., uncertainty estimation from generation, efficient and robust benchmark, RLHF, etc.
-- **Reinforcement Learning**, e.g. online/offline RL, off policy evaluation, etc.
+- **Reinforcement Learning**, e.g. online/offline RL, causal RL, etc.
