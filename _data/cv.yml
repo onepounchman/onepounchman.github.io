@@ -23,7 +23,7 @@
   type: time_table
   contents:
     - title: Applied Scientist Intern
-      institution: Meta
+      institution: Amazon
       year: summer 2025
       description:
         - Listwise feeback leanring for LLM alignment and multi-objective reasoning reward model
