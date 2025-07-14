@@ -22,6 +22,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist Intern
+      institution: Meta
+      year: summer 2025
+      description:
+        - Listwise feeback leanring for LLM alignment and multi-objective reasoning reward model
     - title: Research Scientist Intern
       institution: Meta
       year: summer 2024
