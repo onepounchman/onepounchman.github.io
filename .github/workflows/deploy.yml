@@ -40,6 +40,8 @@ on:
       - "**.liquid"
       - "**/*.md"
       - "**.yml"
+      - "**.bib"         # ADD
+      - "**/*.bib"       # ADD
       - "Gemfile"
       - "Gemfile.lock"
       - "!.github/workflows/axe.yml"
