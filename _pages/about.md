@@ -22,5 +22,5 @@ Welcome! I am a fifth-year Statistics PhD candidate at [University of California
 
 **Research Interests:** I have broad research interests in general machine learning. Specifically, my research interests lie in:
 
-- **Large Language Models**, e.g., uncertainty quantification, efficient and robust benchmark, RLHF, etc.
-- **Reinforcement Learning**, e.g. online/offline RL, causal RL, etc.
+- **Post-training of Large Language Models**, e.g. RLHF, RLVR, distillation, etc.
+- **Trustworthy AI**, e.g. uncertainty quantification, interpratability, efficient and robust benchmark evaluation, etc..
