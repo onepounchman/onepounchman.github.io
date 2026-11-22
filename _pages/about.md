@@ -4,14 +4,14 @@ title: about
 permalink: /
 recent_news:
   - date: "11/2026"
-    date_source: "Announced in November 2026, as confirmed by the user; https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Area_Chairs"
-    text: 'Serving as an Area Chair for the <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Area_Chairs">October 2026 cycle of ACL Rolling Review (ARR)</a>.'
-  - date: "11/2026"
     date_source: "User-confirmed acceptance; https://2027.eacl.org/calls/papers/"
     paper_type: survey
     paper_title: Complex Feedback Survey
     paper_url: https://www.preprints.org/manuscript/202608.0674
     venue: Findings of EACL 2027
+  - date: "11/2026"
+    date_source: "Announced in November 2026, as confirmed by the user; https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Area_Chairs"
+    text: 'Serving as an Area Chair for the <a href="https://openreview.net/group?id=aclweb.org/ACL/ARR/2026/October/Area_Chairs">October 2026 cycle of ACL Rolling Review (ARR)</a>.'
   - date: "09/2026"
     date_source: "User-provided LinkedIn profile; https://neurips.cc/Conferences/2026/Dates"
     paper_title: OTROPE
