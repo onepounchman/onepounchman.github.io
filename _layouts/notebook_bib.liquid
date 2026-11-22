@@ -1,0 +1,36 @@
+---
+---
+<article class="paper" id="{{ entry.key }}">
+  <h3 class="paper-title">
+    <a href="{{ entry.url }}">{{ entry.title }}</a>
+  </h3>
+  <div class="paper-authors">
+    {% for author in entry.author_array -%}
+      {%- unless forloop.first %}, {% endunless -%}
+      {%- if author.first contains 'Wenbo' and author.last contains 'Zhang' -%}
+        <strong>
+          {{- author.first }}
+          {{ author.last -}}
+        </strong>
+      {%- else -%}
+        {{- author.first }}
+        {% if author.prefix != blank %}{{ author.prefix }} {% endif -%}
+        {{- author.last -}}
+      {%- endif -%}
+    {%- endfor %}
+  </div>
+  <div class="paper-meta">
+    <span class="paper-venue{% if entry.abbr == 'arXiv' %} paper-venue-preprint{% endif %}" title="{{ entry.journal | escape }}">
+      {%- if entry.abbr == 'arXiv' %}Preprint{% else %}{{ entry.abbr | default: entry.journal }}{% endif -%}
+      {%- if entry.venue_type == 'journal' %} ·{% endif %}
+      {{ entry.year -}}</span
+    ><span class="paper-links">
+      {%- if entry.pdf -%}
+        [<a href="{{ entry.pdf }}">Paper</a>]
+      {%- endif -%}
+      {%- if entry.code %}
+        [<a href="{{ entry.code }}">Code</a>]
+      {%- endif -%}
+    </span>
+  </div>
+</article>
