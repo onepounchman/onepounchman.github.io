@@ -11,7 +11,7 @@
   contents:
     - title: PhD in Statistics
       institution: University of California Irvine
-      year: 2021-now
+      year: 2021-2026
     - title: Master in Biostatistics
       institution: University of Washington
       year: 2019-2021
@@ -22,18 +22,38 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist · Accio
+      institution: Alibaba
+      year: 07/2026–present
+      description:
+        - Agentic post-training
     - title: Applied Scientist Intern
       institution: Amazon
-      year: summer 2025
+      year: 06/2025–09/2025
+      supervisors:
+        - name: Prof. Sheng Wang
+          url: https://homes.cs.washington.edu/~swang/
+        - name: Prof. Rui Song
+          url: https://song-ray.github.io/
+        - name: Dr. Cynthia Lu
+          url: https://scholar.google.com/citations?user=rv1Y2-AAAAAJ
       description:
         - Listwise feeback leanring for LLM alignment
     - title: Research Scientist Intern
       institution: Meta
-      year: summer 2024
+      year: 06/2024–12/2024
+      supervisors:
+        - name: Dr. Wenyu Chen
+          url: https://scholar.google.com/citations?user=zz5bhxQAAAAJ
       description:
         - Robust Evaluation and Benchmarking for Large Language Models
     - title: Machine Learning Research Intern
       institution: IQVIA
-      year: summer 2022
+      year: 06/2022–09/2022
+      supervisors:
+        - name: Dr. Tong Wu
+          url: https://scholar.google.com/citations?user=3fb-mocAAAAJ
+        - name: Dr. Yunlong Wang
+          url: https://sites.google.com/view/yunlongwang/home
       description:
         - Develop Causality Inspired Self-explainning Neural Prediction Models
